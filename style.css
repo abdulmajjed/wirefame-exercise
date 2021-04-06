@@ -2,16 +2,11 @@
     box-sizing: border-box;
 }
 #tiny {
-/* display: block; */
-
 float: left;
 }
 nav{
     background-color: rgba(0, 0, 0, 0.685);
     margin-bottom: 20px;
-    /* width: 100%; */
-    /* float:right; */
-    /* text-align: right; */
     display: inline;
 }
 nav ul{
@@ -25,7 +20,6 @@ nav ul{
 nav ul li{
     display: inline-block;
     padding: 20px; 
-    /* float: left;   */
 }
 .box:hover{
     background-color: #555555;
@@ -41,11 +35,6 @@ main section img{
     width: 1120px;
 
 }
-
-
-/* #main{
-    width: 120%;
-} */
 #downLeft{
     float:left ;
     width: %;
@@ -69,22 +58,15 @@ p{
     color: white;
 }
 section{
-    text-align: center;
-    
-    
+    text-align: center;   
 }
 nav img{
     width: 166px;
 }
-
 main section article img{
     width: 356px;
     margin: 0px;
 }
-/* article.branch{
-margin: 10px;
-
-} */
 element.style {
     width: 57%;
 }
